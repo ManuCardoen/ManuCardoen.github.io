@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/webservices-pieter-2122-ManuCardoen/static/css/main.b0bf9fd5.chunk.css",
+    "main.js": "/webservices-pieter-2122-ManuCardoen/static/js/main.7e803c41.chunk.js",
+    "main.js.map": "/webservices-pieter-2122-ManuCardoen/static/js/main.7e803c41.chunk.js.map",
+    "runtime-main.js": "/webservices-pieter-2122-ManuCardoen/static/js/runtime-main.466e4f7a.js",
+    "runtime-main.js.map": "/webservices-pieter-2122-ManuCardoen/static/js/runtime-main.466e4f7a.js.map",
+    "static/css/2.e3079b7b.chunk.css": "/webservices-pieter-2122-ManuCardoen/static/css/2.e3079b7b.chunk.css",
+    "static/js/2.5dc27a20.chunk.js": "/webservices-pieter-2122-ManuCardoen/static/js/2.5dc27a20.chunk.js",
+    "static/js/2.5dc27a20.chunk.js.map": "/webservices-pieter-2122-ManuCardoen/static/js/2.5dc27a20.chunk.js.map",
+    "static/js/3.01978599.chunk.js": "/webservices-pieter-2122-ManuCardoen/static/js/3.01978599.chunk.js",
+    "static/js/3.01978599.chunk.js.map": "/webservices-pieter-2122-ManuCardoen/static/js/3.01978599.chunk.js.map",
+    "index.html": "/webservices-pieter-2122-ManuCardoen/index.html",
+    "static/css/2.e3079b7b.chunk.css.map": "/webservices-pieter-2122-ManuCardoen/static/css/2.e3079b7b.chunk.css.map",
+    "static/css/main.b0bf9fd5.chunk.css.map": "/webservices-pieter-2122-ManuCardoen/static/css/main.b0bf9fd5.chunk.css.map",
+    "static/js/2.5dc27a20.chunk.js.LICENSE.txt": "/webservices-pieter-2122-ManuCardoen/static/js/2.5dc27a20.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/webservices-pieter-2122-ManuCardoen/static/media/icons-20.cde033c5.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.466e4f7a.js",
+    "static/css/2.e3079b7b.chunk.css",
+    "static/js/2.5dc27a20.chunk.js",
+    "static/css/main.b0bf9fd5.chunk.css",
+    "static/js/main.7e803c41.chunk.js"
+  ]
+}
